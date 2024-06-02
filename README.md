@@ -3,7 +3,7 @@
 ## GitHub Pages Deployed App
 
 You can view the deployed app on GitHub Pages at the following link:
-[GitHub Pages Deployed App](https://your-github-username.github.io/belly-button-biodiversity-dashboard/)
+[GitHub Pages Deployed App](https://starkilled1.github.io/belly-button-challenge/)
 
 ## Context of the Challenge: Background
 
