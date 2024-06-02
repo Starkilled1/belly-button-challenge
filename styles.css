@@ -1,0 +1,29 @@
+
+/* General body background color */
+body {
+    background-color: lightblue;
+  }
+  
+  .container .row .col-md-12.p-5.text-center.bg-light {
+    background-color: blue;
+  }
+  
+  .card.bg-light {
+    background-color: lightblue;
+  }
+  
+  .card.card-primary {
+    background-color: lightblue;
+  }
+  
+  .card.card-primary .card-header {
+    background-color: blue;
+    color: white;
+  }
+  .container .row .col-md-12.p-5.text-center.bg-light h1 {
+    color: black;
+  }
+
+  .container .row .col-md-12.p-5.text-center.bg-light p {
+    color: black;
+  }
